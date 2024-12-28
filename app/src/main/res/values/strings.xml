@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OneSignal</string>
+    <string name="one_siginal_app_id">8fdb5160-225f-4f3c-80cc-ce5725972b15</string>
+    <string name="msg_token_fmt">Message Token %s</string>
+</resources>
